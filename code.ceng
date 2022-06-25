@@ -1,0 +1,8 @@
+var_1:=1;
+var:=var_1+5;(*additonn*)
+if(var){
+s1:="yunus";
+}
+var_1++; (*increment*)
+var--;
+s1:="fatih";
